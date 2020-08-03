@@ -1,0 +1,9 @@
+# macOS Files
+.DS_Store
+
+# Picture files
+*.jpg
+*.png
+*.gif
+*.pdf
+*.ppm
